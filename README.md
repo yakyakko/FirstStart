@@ -6,3 +6,5 @@ Someday to be a Programmer Developer FrontEnd BackEnd FullStack Something.
 Everything to be continue EverLasting.
 
 This Line append from local repository
+
+This Line Append From Enumulation Linux terminal
